@@ -1,6 +1,6 @@
 ## Hi, I'm Akash 👋
 
-**E-commerce Head at LEOTUDE** · Ahmedabad, India · 7+ years in marketplace operations
+**E-commerce Head** · Ahmedabad, India · 7+ years in marketplace operations
 
 I run e-commerce operations for a fashion brand selling on Myntra, Flipkart, Meesho, Amazon, Nykaa and our own website, and I build the in-house tools that automate that work.
 
