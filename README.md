@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Akash 👋
 
-<!--
-**akash-singhsab/akash-singhsab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**E-commerce Head at LEOTUDE** · Ahmedabad, India · 7+ years in marketplace operations
 
-Here are some ideas to get you started:
+I run e-commerce operations for a fashion brand selling on Myntra, Flipkart, Meesho, Amazon, Nykaa and our own website, and I build the in-house tools that automate that work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I build
+
+- **Sales & orders dashboard**: orders, returns, settlements, ads and inventory from every marketplace in one place, with automatic daily syncs *(Go · React/TypeScript · MySQL · Docker)*
+- **Warehouse app**: stock checks and dispatch on mobile *(Flutter/Dart)*
+- **Challan system**: shared challan / debit note management *(FastAPI · Postgres · Docker)*
+
+### 💻 Tech I use
+
+Go · Dart/Flutter · Python · Rust · React · TypeScript · MySQL · PostgreSQL · Redis · Docker
+
+### 📫 Connect
+
+[LinkedIn](https://www.linkedin.com/in/akashpal-ecommerce/)
